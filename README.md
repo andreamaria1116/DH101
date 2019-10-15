@@ -2,7 +2,8 @@
 ## 1. Menstruation Tracking Application
 ## 2. Andrea Mejia-Madriz, DH 101 Fall
 ### 3. 
-![screenshot](https://andreamaria1116.github.io/DH101/IMG_5845.PNG) 
+![screenshot](https://andreamaria1116.github.io/DH101/IMG_5845.PNG)
+![screenshot 2](https://andreamaria1116.github.io/DH101/IMG_5854.png)
 [App](https://apps.apple.com/us/app/best-period-tracker-ovulation-intimate-fertile-sex/id1119433473)
 ### This application is made for women. The goal of the application is to allow women to track their menstrual cycle on the application by inputting the start date of their period, how long their period lasted, and how long their cycle is. This application then estimates how long they are fertile for, when they are ovulating, and what dates it is best for them to be intimate without running the risk of becoming pregnant.
 ### Overall, this application is successful at meeting its goal, but it does not do so in the most effective way possible. Yes, it does allow you to input the dates of your period and your cycle, and it gives you the information it is meant to give you, but the overall design of the application is not great, and there are many aspects of the application and its functions that are unclear or difficult to learn.
