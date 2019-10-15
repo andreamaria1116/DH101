@@ -1,4 +1,40 @@
-# DH101
-## hello there
-### how are you
-![screenshot](https://andreamaria1116.github.io/DH101/ScreenShot.png/)
+# DH101 Assignment 1
+## 1. Menstruation Tracking Application
+## 2. Andrea Mejia-Madriz, DH 101 Fall
+### 3. 
+![screenshot](https://andreamaria1116.github.io/DH101/IMG_5845.PNG/) 
+[App](https://apps.apple.com/us/app/best-period-tracker-ovulation-intimate-fertile-sex/id1119433473)
+### This application is made for women. The goal of the application is to allow women to track their menstrual cycle on the application by inputting the start date of their period, how long their period lasted, and how long their cycle is. This application then estimates how long they are fertile for, when they are ovulating, and what dates it is best for them to be intimate without running the risk of becoming pregnant.
+### Overall, this application is successful at meeting its goal, but it does not do so in the most effective way possible. Yes, it does allow you to input the dates of your period and your cycle, and it gives you the information it is meant to give you, but the overall design of the application is not great, and there are many aspects of the application and its functions that are unclear or difficult to learn.
+# Heuristic Evaluation
+## 1. Visibility of System Status
+### - When first opening the application, it gives you only a black screen until the interface loads. The application does not give the user any feedback as to whether the application is actually starting up or not. (1)
+### - On the "+add period" page, the color of the button changes once it has been clicked. This is a great indication of which button is currently selected and whether or not the button you want selected has been clicked. (Awesome!)
+### - To delete an inputted cycle, you have to press and hold the square with your finger. When you are pressing on the square, the square shakes to indicate that it is indeed being clicked on, which is a great indicator. (Awesome!)
+## 2. Match Between System and the Real World
+### - This application actually does a great job at matching the system to the real world. The application uses terminology that any woman would be familiar with ("period" to signify that it is a date when you would be on your period, "intimate" to signify a day when it is most likely safe to be intimate, "fertile" to indicate particularly fertile dates, and "ovulation" to indicate the day you are ovulating). The dates are layed out like a calendar with the first letter of the days of the week at the top, which is typical of many calendars. It uses a plus symbol and the words "add period" to label the button you click to add your cycle information, and uses days as the measurement of time. All of this is very common wording that almost anyone would be familiar with, and therefore, this application satisfies this heuristic. (Awesome!)
+## 3. User Control and Freedom
+### - On the application's home page, you are able to easily add cycle information, but the way to remove cycle information is not clearly marked. There is no "cancel", "undo", or "delete" button and also no instructions as to how to remove cycle information. The user must decifer that the only way to do this is by clicking and holding down on the tile containing the cycle information. (2)
+## - On the application's "+add period" page, it is not clear how to change the period start date. There is no button that says "change date" or no initially visible calendar to select the date from. You have to somehow figure out that you must click on the date square in order to make a calendar pop up, from which you can then select your desired date. (2)
+### - On the "+add period" page, it does have a cancel option at the bottom, which allows the user to easily exit the page. It also allows the user to change their selection after making it without having to completely cancel and start over, which is very helpful. (Awesome!)
+## 4. Consistency and Standards
+### - The "+add period" button is always in the same place regardless of the page you're on (Awesome!)
+### - Because there are only 2 pages on the whole app, there is no variability in platform conventions, and all the conventions are uniform throughout the application. (Awesome!)
+## 5. Error Prevention
+### - There is no real error prevention on the application. When you initially open the "+add period" page, choices are already selected for "Period Length" and "Cycle Length". This makes it very easy to make a mistake by forgetting to change your desired date, since it allows you to submit these already preselected dates without changing them. (2)
+### - When deleting cycle information on the homepage, there is also no form of error prevention. There is no pop up screen or button making sure that you are trying to delete the cycle information on purpose. If you hold down on the box, it automatically deletes the box without giving you warning or making sure that this is actually what you mean to do, and once it is deleted, it gives you no signal that it has actually been deleted. (2)
+## 6. Recognition Rather than Recall
+### - The only instruction on the home page of the application is "+add period". This is a good example of a clear instruction that uses recognition and not recall because it outlines exactly what one should click if they wish to add cycle information. (Awesome!)
+### - There is no information on the home page as to how to remove already inputted information, and therefore you must use recall to remember how to complete this task. (2)
+### - On the "+add period" page, there are pretty clear instructions outlining how to input the information necessary ("Period Length", "Cycle Length", and "Period Starts:" cues. Some of the instructions, like the "Period Starts" one, could be improved, potentially by adding an instruction to click on the box with the date on it to make a selection. (1)
+## 7. Flexibility and Efficiency of Use
+### - There is only one route to take to accomplish a goal on this application. The application developers did not give the user any option as to how to complete the task or any ways to expedite the task by using short cuts or different tactics. (2)
+## 8. Aesthetic and Minimalist Design
+### - The aesthetic value of this applicatioon could especially be improved by removing some of the excess labels on both pages. For example, on the home page, the calendar has labels on every single date outlining whether it is a "period", "intimate", "fertile", or "ovulation" date. For many of these boxes, it would be useful to have just one large label spanning over the various boxes instead of labeling each individual box. Labeling each individual box makes the interface seem clutered and makes it more difficult to read. Similarly, on the "+add period" page, every single incriment has a unit label. For example, every single number option under the "period length" section has the label "days" after it. This could be streamlined by including the unit label with the heading of the section (making the section heading say "period length (days):" instead of just "period length". (2)
+## 9. Help Users Recognize, Diagnose, and Recover From Errors
+### - There are no real error messages on this application, as the only real error that could be made is inputting the dates wrong. Because the application has no way of decifering if the dates you inputted are the dates you actually meant to input, there are no error messages to speak of on this application. I have not experienced the application failing and therefore do not know what error message it provides when that occurs. (???)
+## 10. Help and Documentation 
+### - On this application, there is documentation of the dates that you input into it for your cycle, as the dates you put in appear in a box at the bottom of the homescreen. This is helpful because it allows you to double check whether or not they have been inputted correctly, and allows you to delete them and start over if an error was made. (Awesome!)
+### - There is not, however, anywhere on this application to find help at all. (2)
+
+### Overall, although none of the issues that this application has are issues that make the application un-usable, they are bad enough to where they make the application unpleasant to use. 
