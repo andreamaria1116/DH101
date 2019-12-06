@@ -25,5 +25,8 @@ Kelsey opens her BigSis application and clicks on the "Discuss" tab. She clicks 
 ## [Wireframes](https://xd.adobe.com/view/6d04ba6f-8f4a-4fde-7d50-810e5dece513-1b35/grid/) 
 This is the wireframe of my project. By clicking [this link](https://xd.adobe.com/view/6d04ba6f-8f4a-4fde-7d50-810e5dece513-1b35/grid/), you will be able to see the wireframe of my application. This version lacks styling such as color and font, but ultimately gives an idea of what my final design will be capable of.
 
+## Color Variations
+![color variations](https://andreamaria1116.github.io/DH101/ColorVariations.png)
+
 ## [High Fidelity Prototype](https://xd.adobe.com/view/cc01379d-19bb-49ac-709d-7591cc490952-ba30/?fullscreen&hints=off)
 This is the high fidelity prototype of my app. The tasks that I wanted to be able to complete are: check the alerts, input new menstrual cycle information(yes on their period, calm, and happy), delete said inputted information, comment on the first discussion post, post a new discussion post, and search for a discussion post ("Headaches during your period"). 
