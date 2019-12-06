@@ -27,6 +27,7 @@ This is the wireframe of my project. By clicking [this link](https://xd.adobe.co
 
 ## Color Variations
 ![color variations](https://andreamaria1116.github.io/DH101/ColorVariations.png)
+These are some alternate variations that I tested out for the color scheme of my application. Ultimately, I chose the green and purple scheme seen below in my high fidelity prototype because it was accessible, clean, and aesthetically pleasing.
 
 ## [High Fidelity Prototype](https://xd.adobe.com/view/cc01379d-19bb-49ac-709d-7591cc490952-ba30/?fullscreen&hints=off)
 [This](https://xd.adobe.com/view/cc01379d-19bb-49ac-709d-7591cc490952-ba30/?fullscreen&hints=off) is the high fidelity prototype of my app. The tasks that I wanted to be able to complete are: check the alerts, input new menstrual cycle information(yes on their period, calm, and happy), delete said inputted information, comment on the first discussion post, post a new discussion post, and search for a discussion post ("Headaches during your period"). 
