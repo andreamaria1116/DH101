@@ -82,3 +82,5 @@ These are some alternate variations that I tested out for the color scheme of my
 - The application documents all the information that the user inputs regarding their menstrual cycle, as the dates you put in appear in a box at the bottom of the homescreen. This is helpful because it allows you to double check whether or not they have been inputted correctly, and allows you to delete or edit them if an error has been made. (Awesome!)
 - The application also documents any discussion posts or comments that the user makes, and they appear on the discussion board as they are made, so the user can go back and review them and then delete them if they need to. (Awesome!)
 - The application has a help button where the users can go and search any problems they may be encountering within the application. Here, they can see suggestions as to how to fix the issue, or, if the issue is uncommon, they can receive information as to how to contact customer support. In my prototype, this function is not fully built out yet, but the help button can be seen in the upper left hand corner. (Awesome!)
+
+## Pitch Video
