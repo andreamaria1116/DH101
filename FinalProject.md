@@ -84,4 +84,6 @@ These are some alternate variations that I tested out for the color scheme of my
 - The application has a help button where the users can go and search any problems they may be encountering within the application. Here, they can see suggestions as to how to fix the issue, or, if the issue is uncommon, they can receive information as to how to contact customer support. In my prototype, this function is not fully built out yet, but the help button can be seen in the upper left hand corner. (Awesome!)
 
 ## Pitch Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wInAlmyWFd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wInAlmyWFd8
+" target="_blank"><img src="http://img.youtube.com/vi/wInAlmyWFd8/0.jpg" 
+alt="Pitch Video" width="240" height="180" border="10" /></a>
